@@ -1,0 +1,100 @@
+Age,Gender,ChestPainType,RestingBloodPressure,Cholesterol,FastingBloodSugar,RestECG,MaxHeartRateAchieved,ExerciseInducedAngina,Oldpeak,ST_Slope,NumberOfMajorVessels,Thalassemia,Smoking,AlcoholIntake,PhysicalActivity,StressLevel,BMI,DiabetesHistory,HypertensionHistory,target
+54.97,Male,Type3,115.36,161.5,1,ST,144.53,0,2.36,Flat,4.52,Fixed Defect,1,1.95,2.35,5.42,22.47,0,1,1
+48.62,Female,Type1,108.72,135.19,0,Hypertrophy,171.28,0,-0.51,Down,-3.24,Reversible Defect,1,0.67,3.21,4.81,29.76,0,0,1
+56.48,Male,Type1,124.79,177.19,1,Hypertrophy,156.23,0,3.71,Down,0.49,Fixed Defect,1,1.04,2.54,4.36,33.76,0,0,1
+65.23,Female,Type3,140.11,209.07,0,Hypertrophy,132.29,1,1.84,Up,4.49,Fixed Defect,1,0.78,4,3.39,21.11,1,0,1
+47.66,Male,Asymptomatic,91.87,229.75,0,ST,155.02,1,0.1,Up,-3.94,Reversible Defect,0,0,1.72,5.58,31.4,0,0,0
+47.66,Male,Type3,121.73,172.13,0,Normal,166.19,1,2.66,Down,1.18,Fixed Defect,1,1.35,0.21,6.04,17.71,1,1,1
+65.79,Male,Asymptomatic,117.6,179.35,1,Normal,148.45,0,0.99,Up,-2.41,Fixed Defect,1,1.28,-0.58,0.15,26,1,1,0
+57.67,Male,Type1,130.07,153.67,1,ST,151.48,1,0.67,Flat,-1.51,Reversible Defect,1,0.73,3.96,10.09,26.3,0,1,1
+45.31,Female,Type1,123.2,198.43,0,Normal,138.97,0,-0.02,Flat,-2.41,Fixed Defect,1,0.2,1.95,1.38,17.58,1,0,0
+55.43,Male,Asymptomatic,108.72,157.58,1,ST,150.48,1,-1.82,Up,-2.2,Fixed Defect,0,0.81,0.66,3.96,20.86,0,1,1
+45.37,Female,Type1,115.21,228.66,0,Normal,154.76,0,1.91,Up,8.17,Fixed Defect,0,1.37,1.76,-0.12,20.37,0,1,0
+45.34,Male,Asymptomatic,108.06,110.71,0,Hypertrophy,138.42,1,-1.44,Up,2.53,Fixed Defect,0,1.67,6.91,4.46,18.44,0,1,0
+52.42,Male,Type2,136.14,182.02,1,Normal,128.41,1,-0.19,Flat,3.31,Reversible Defect,0,0.64,0.78,4.08,11.67,0,1,1
+30.87,Male,Type3,120.32,215.06,0,ST,175.76,1,1.65,Up,1.48,Normal,0,1.55,4.45,3.98,23.96,1,1,1
+32.75,Female,Type2,148.52,209.19,0,ST,162.08,0,0.25,Down,-4.82,Normal,1,1.31,3.84,5.61,24.57,1,0,1
+44.38,Male,Asymptomatic,119.09,334.65,1,Hypertrophy,139.05,0,1.24,Up,1.18,Fixed Defect,0,1.21,5.68,4.51,24.53,0,1,1
+39.87,Female,Type3,109.37,217.49,0,ST,154.39,0,-0.82,Down,3.22,Reversible Defect,0,0.35,2.75,6.08,28.83,0,1,0
+53.14,Female,Asymptomatic,97.29,149.8,0,Normal,120.43,1,0.48,Up,-2.56,Reversible Defect,1,0.37,-0.12,2.53,15.31,1,1,0
+40.92,Female,Type3,92.95,195.23,0,Normal,110.46,0,1.25,Up,2.9,Fixed Defect,1,0.58,4.99,5.15,23.09,1,0,1
+35.88,Female,Type3,96.24,111.19,0,Hypertrophy,171.68,0,-0.43,Flat,2.11,Normal,0,0.84,2.5,3.74,37.8,0,0,1
+64.66,Female,Type3,124.01,195.97,0,ST,154.59,0,3.53,Down,5.56,Fixed Defect,0,1.9,5.55,4.26,29.43,1,1,0
+47.74,Female,Type3,127.63,158.35,0,Hypertrophy,149.05,0,0.04,Down,-1.25,Reversible Defect,1,0.67,4.63,5.54,29.46,1,0,1
+50.68,Female,Asymptomatic,96.28,245.77,0,Normal,154.65,0,3.07,Down,-3.29,Reversible Defect,0,1.39,4.99,3.99,19.92,1,0,0
+35.75,Female,Type3,133.43,172.52,1,Hypertrophy,214.52,0,0.75,Flat,-1.08,Normal,1,0.77,7.74,4.79,24.02,1,1,1
+44.56,Female,Type3,112.75,194.16,1,ST,167.38,1,-1.35,Down,4.31,Reversible Defect,1,1.24,3.56,2.69,13.5,0,0,1
+51.11,Male,Type2,122.2,168.22,0,Hypertrophy,129.09,1,-0.71,Flat,-5.49,Reversible Defect,0,0.97,5.89,7.19,27.93,1,1,0
+38.49,Male,Type1,144.18,286.94,0,ST,116.39,0,1.26,Up,-6.21,Reversible Defect,0,1.09,2.19,6.46,32,0,1,0
+53.76,Male,Type1,133.45,183.94,1,ST,171.09,1,2.55,Up,0.27,Normal,0,1.18,4.08,5.2,17.75,0,1,1
+43.99,Male,Type2,115.97,291.63,1,Normal,167.12,1,3.65,Down,-1.33,Reversible Defect,1,0.88,2,4.51,19.21,0,0,0
+47.08,Male,Type2,106.63,240.71,1,Normal,161.5,0,1.19,Up,0.02,Fixed Defect,1,1.19,3.96,4.79,24.84,1,1,1
+43.98,Female,Asymptomatic,87.72,224.1,1,Normal,133.74,0,-0.77,Up,2.84,Normal,0,1.62,3.75,7.15,25.77,1,1,0
+68.52,Female,Asymptomatic,109.21,218.44,1,ST,157.27,1,1.42,Down,-1.66,Fixed Defect,0,0.62,-1.12,6.32,22.29,0,0,1
+49.87,Female,Asymptomatic,116.83,219.69,0,Hypertrophy,135.53,0,-0.24,Up,-5.62,Fixed Defect,0,1.59,1.78,7.18,20.92,1,1,1
+39.42,Female,Type2,105.19,103.62,1,ST,163.26,1,1.59,Down,6.13,Normal,1,0.87,3.46,4.32,20.98,0,0,1
+58.23,Female,Type2,118.03,186.06,1,Normal,169.65,1,-0.41,Down,-2.99,Fixed Defect,1,0.81,-1.51,5.97,24.75,0,0,0
+37.79,Female,Type3,121.15,242.26,1,Normal,139.13,1,-2.13,Up,-3.18,Normal,1,1.35,2.81,7.38,27.93,1,1,0
+52.09,Female,Asymptomatic,116.63,197.56,0,Hypertrophy,172.64,0,2.98,Up,3.31,Fixed Defect,0,0.83,5.02,3.15,24.75,1,0,0
+30.4,Male,Asymptomatic,110.25,129.74,0,Normal,152.3,1,0.66,Up,-1.15,Normal,1,1.16,5.6,3.02,24.28,1,1,0
+36.72,Male,Asymptomatic,122.53,197.38,0,Normal,159.84,0,1.07,Up,-0.19,Reversible Defect,1,1.11,1.44,5.55,16.2,0,0,1
+51.97,Male,Type1,126.63,285.21,0,Normal,123.81,0,2.5,Up,1.45,Reversible Defect,0,-0.04,5.73,2.53,29.34,0,0,0
+57.38,Male,Type3,103.64,262.34,0,Hypertrophy,154.64,0,3.82,Flat,3.25,Fixed Defect,1,1.21,5.42,1.37,24.74,1,0,0
+51.71,Female,Asymptomatic,141.16,196.9,0,ST,136.49,0,2.08,Up,-1,Reversible Defect,0,0.28,-1.3,7.35,22.82,0,0,0
+48.84,Female,Asymptomatic,118.52,247.57,1,Normal,159.49,0,1.15,Flat,4.56,Normal,1,0.32,3.23,7.7,26.28,0,1,1
+46.99,Female,Asymptomatic,120.28,181.67,0,Hypertrophy,179.34,1,1.69,Down,-6.41,Fixed Defect,0,1.18,3.45,2.64,20.78,0,1,0
+35.21,Male,Type1,130.62,114.81,0,Normal,155.79,0,0.56,Up,2.28,Reversible Defect,0,1.27,6.04,2.14,22.92,1,0,0
+42.8,Female,Type1,123.5,153.78,1,Hypertrophy,131.98,0,1.05,Up,-2.52,Reversible Defect,1,1.6,3.57,3.69,25.54,1,1,1
+45.39,Female,Type2,134.3,278.14,0,Normal,162.53,0,1.22,Up,4.12,Fixed Defect,0,0.46,5.79,7.51,21.61,1,1,1
+60.57,Female,Type3,124.31,186.3,1,Hypertrophy,158.04,0,-0.18,Down,0.43,Reversible Defect,1,0.63,1.44,4.18,16.77,0,1,1
+53.44,Male,Type2,110.81,187.83,1,Normal,191.17,0,1.03,Flat,-2.02,Reversible Defect,0,1.23,-0.2,5.19,15.96,1,1,1
+32.37,Female,Type3,125.42,185.01,0,ST,155.08,1,1.55,Flat,1.99,Fixed Defect,0,1.61,1.7,5.65,27.23,0,1,1
+53.24,Male,Type1,102.84,295.21,1,Normal,138.29,0,1.78,Up,2.68,Reversible Defect,0,1.1,6.15,5.35,24.84,0,1,1
+46.15,Male,Asymptomatic,121.63,281.3,1,Hypertrophy,165.41,0,1.66,Up,1.93,Reversible Defect,1,0.56,4.85,7.99,24.67,0,1,1
+43.23,Male,Type2,119.5,310.94,1,Normal,147.45,1,-1.01,Up,-3.09,Reversible Defect,0,1.75,7.64,3.56,19.19,1,0,0
+56.12,Male,Asymptomatic,116.88,192.05,1,ST,151.61,0,2.84,Up,-1.45,Reversible Defect,0,0.87,0.11,4.8,24.9,0,1,1
+60.31,Female,Type2,118.07,214.78,0,Normal,131.43,1,2.72,Down,-0.01,Fixed Defect,1,0.88,5.08,5.46,23,1,0,1
+59.31,Male,Type1,91.77,124.17,1,Hypertrophy,147.55,1,0.86,Up,-0.12,Normal,0,0.28,4.51,4.9,22,0,0,1
+41.61,Male,Type1,111.77,273.85,0,Hypertrophy,150.62,1,1.68,Down,2.25,Normal,0,1.36,2.43,2.56,24.62,1,0,1
+46.91,Female,Type1,121.39,141.61,1,ST,147.43,1,0.68,Up,-6.04,Reversible Defect,0,1.43,4.55,2.05,26.48,1,1,1
+53.31,Female,Type2,122.4,210.84,1,Hypertrophy,138.18,0,2.13,Flat,1,Reversible Defect,0,0.65,3.28,2.01,33.75,1,1,0
+59.76,Male,Type3,104.58,145.13,1,Normal,155.76,0,-0.22,Flat,-0.87,Normal,1,1.88,3.92,6.45,27.83,1,0,0
+45.21,Female,Type2,138.99,170.56,0,Normal,131.53,1,3.01,Up,-2.52,Reversible Defect,0,0.71,4.36,3.36,29.29,1,0,0
+48.14,Male,Type3,107.01,158.14,0,Normal,126.82,1,2.05,Up,-2.23,Normal,0,1.31,4.96,5.94,30.52,1,1,0
+38.94,Male,Type2,134.54,169.61,0,Hypertrophy,164.19,0,2.09,Down,-0.64,Fixed Defect,1,1.11,3.17,5.17,21.18,1,1,0
+38.04,Male,Type2,126.41,173.04,1,Normal,162.36,1,0.84,Up,-10.8,Fixed Defect,0,-0.01,6.55,3.05,23.4,1,1,0
+58.13,Male,Type1,110.31,172.59,1,Normal,123.85,1,-1.12,Up,-2.1,Fixed Defect,0,1.27,2.57,3.1,20.48,0,0,0
+63.56,Female,Asymptomatic,146.63,241.67,1,Normal,113.41,1,2.33,Up,-2.63,Fixed Defect,1,1.23,6.77,5.27,21.59,0,0,1
+49.28,Male,Asymptomatic,102.1,144.76,1,ST,129.83,0,-1.07,Flat,1.6,Fixed Defect,1,0.12,0.74,5.16,22.86,0,1,1
+60.04,Female,Type3,133.79,211.03,0,Hypertrophy,147.43,1,2.34,Down,-2.42,Fixed Defect,1,1.76,1.03,5.98,21.47,0,1,1
+53.62,Female,Asymptomatic,135.01,260.9,1,Hypertrophy,173.09,0,-0.16,Flat,-0.65,Normal,1,1.23,1.15,4.08,26.12,0,0,1
+43.55,Female,Type2,109.94,174.34,0,Hypertrophy,146.95,0,-1.38,Down,4.63,Reversible Defect,0,1.62,4.91,3.31,27.16,1,1,1
+53.61,Female,Type2,140.89,164.1,1,ST,134.61,0,1,Flat,2.98,Normal,1,0.14,1.39,5.22,18.47,1,1,1
+65.38,Male,Type1,116.25,188.47,0,Hypertrophy,152.97,1,2.77,Up,2.71,Fixed Defect,0,0.79,5.98,7.84,23.44,1,0,0
+49.64,Female,Type1,124.33,258.99,0,ST,147.72,1,-0.45,Flat,-1.5,Reversible Defect,1,1.59,1.95,1.25,23.49,1,0,1
+65.65,Male,Asymptomatic,123.9,209.71,1,ST,122.38,0,3.4,Flat,1.63,Reversible Defect,0,0.22,3.8,3.4,17.64,1,0,1
+23.8,Female,Type3,117.99,173.44,1,Hypertrophy,122.5,0,1.99,Down,-0.7,Fixed Defect,1,0.81,4.28,6.18,21.17,0,0,1
+58.22,Female,Asymptomatic,132.16,224.19,0,Normal,123.04,0,1.24,Down,-0.59,Fixed Defect,1,1.2,0.97,5.43,29.37,0,1,0
+50.87,Male,Asymptomatic,131.9,144.89,1,Normal,199.6,1,0.35,Flat,1.23,Fixed Defect,0,0.05,0.22,6.21,29.3,1,0,0
+47.01,Male,Asymptomatic,93.77,234.07,1,Hypertrophy,167.2,1,0.45,Down,-1.79,Fixed Defect,1,0.34,3.57,4.14,16.85,0,1,0
+50.92,Male,Asymptomatic,139.57,220.43,0,Hypertrophy,138.13,0,1.65,Down,4.48,Fixed Defect,1,1.69,2.45,1.78,27.36,0,1,1
+30.12,Female,Type2,95.06,184.61,0,ST,172.17,0,2.27,Down,-0.48,Fixed Defect,1,1.03,4,8.34,17.65,1,1,1
+47.8,Female,Type3,135.49,158.07,0,Hypertrophy,138.64,1,0.11,Down,1.86,Reversible Defect,0,1.59,0.31,7.17,22.99,1,0,1
+53.57,Male,Type2,136.9,155.67,0,ST,171.5,0,-0.21,Down,4.37,Fixed Defect,1,1.09,2.29,4.95,24.51,0,0,0
+64.78,Male,Type3,103.64,226.74,1,Hypertrophy,151.61,1,0.68,Flat,3.09,Fixed Defect,1,2.23,2.64,3.32,28.76,0,1,0
+44.82,Male,Type1,113.84,261.45,0,Normal,136.82,1,3.09,Down,-4.23,Reversible Defect,0,1.22,-1.87,4.02,24.13,1,1,1
+41.92,Male,Asymptomatic,103.41,168.13,0,Normal,163.6,0,-0.83,Up,1.33,Normal,0,1.63,4.99,5.46,19.93,0,0,0
+44.98,Female,Type2,116.78,222.92,0,Hypertrophy,152.75,0,2.71,Flat,2.55,Fixed Defect,1,0.88,1.49,4.5,19.08,1,1,1
+59.15,Male,Type3,115.38,95.65,1,ST,157.97,1,1.06,Flat,2.68,Reversible Defect,0,1.11,6,4.97,25.84,0,1,0
+53.29,Male,Type1,131.69,170.77,0,Normal,154.31,1,-1.48,Flat,-3.34,Reversible Defect,0,1.32,1.61,8.22,21.83,0,1,0
+44.7,Male,Type1,139.65,198.45,1,ST,154.1,1,0.31,Down,-1.97,Normal,0,1.4,1.96,6.85,22.96,1,1,0
+55.13,Male,Asymptomatic,140.94,154.52,0,Hypertrophy,166.01,1,1.91,Up,2.98,Fixed Defect,1,0.98,0.52,2.66,29.85,0,1,1
+50.97,Female,Type3,111.57,153.17,0,Hypertrophy,201.68,1,3.7,Down,-2.29,Fixed Defect,1,1,5.29,5.15,27.17,1,1,0
+59.69,Male,Type2,116.86,166.61,1,Normal,174.98,0,-0.99,Flat,-0.9,Fixed Defect,0,1.25,3.91,3.96,32.93,0,1,1
+42.98,Female,Asymptomatic,94.75,214.61,0,Hypertrophy,154.39,1,-3.23,Flat,4.73,Reversible Defect,1,1.25,5.8,5.6,19.91,0,1,1
+46.72,Male,Type2,107.91,190.63,0,Normal,143.79,1,-0.96,Flat,-0.14,Fixed Defect,0,0.49,2.59,4.87,21.45,1,0,1
+46.08,Male,Type1,134.47,88.09,1,ST,145.99,1,2.7,Flat,-2.18,Fixed Defect,1,1.11,2.92,10.94,25.92,0,0,0
+35.36,Female,Type2,144.23,93.96,0,Normal,124.88,0,-1.69,Down,-2.63,Fixed Defect,0,1.16,-0.36,5.86,34.09,1,1,0
+52.96,Male,Type2,101.48,169.66,0,Normal,163.29,0,3.25,Up,1,Fixed Defect,1,0.51,1.75,4.73,21.03,1,1,0
+52.61,Female,Asymptomatic,111.11,222.88,0,ST,129.7,1,2.82,Up,-4,Normal,0,1.45,3.34,8.69,25.19,0,0,1
+50.05,Female,Type2,119.6,62.62,0,Normal,142.55,1,1.29,Flat,-0.74,Normal,1,1.21,3.77,5.41,31.61,1,0,0
